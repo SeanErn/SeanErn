@@ -1,3 +1,4 @@
+<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=joshlmao&show_icons=true&theme=tokyonight">
 - 👋 Hi, I’m @SeanErn
 - 👀 I’m interested in learning development in Java and Javascript based libraries
 - 🌱 I’m currently learning TensorFlow for Node.JS and Java
