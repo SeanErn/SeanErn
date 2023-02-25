@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Sean</h1> <br>
-I'm a 15 year old full-stack developer from Michigan. Currently, I'm interested in learning development in Java, Javascript, and Golang-based libraries. Currently, I am learning TensorFlow and OpenCV for Java,  and I am the lead student developer for the Otsego High Schools FRC Robotics team. In my free time, I work on lots of random projects, such as my Javascript-based game website designed for hosting on low-powered hardware, codenamed Project Aperture. <br>
+I'm a 15 year old full-stack developer from Michigan. I'm interested in learning development in Java, Javascript, and Golang-based libraries. Currently, I am learning TensorFlow and OpenCV for Java,  and I am the lead student developer for the Otsego High Schools FRC Robotics team. In my free time, I work on lots of random projects, such as my Javascript-based game website designed for hosting on low-powered hardware, codenamed Project Aperture. <br>
 <h1>My Skills</h1>
 <img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,html,css,sass,mongodb,java,kotlin,gradle,&theme=light">
 Throughout my time as a developer I have picked up many different languages. The ones I use most being Javascript, Node.js, Java, Html, Css, and other frameworks like Tenorflow and Tensorflow lite.
