@@ -7,6 +7,5 @@
 #### [LinkedIn](https://www.linkedin.com/in/seanernstes/)
 # Github Stats ⚡
 <div>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=seanern&show_icons=true">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanErn&layout=compact&exclude_repo=mcrustplus">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=seanern&show_icons=true&theme=cobalt">
 </div>
