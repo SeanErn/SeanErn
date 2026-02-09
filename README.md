@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Sean
-### I'm a 18-year-old developer from Michigan. I'm interested in electrical engineering and computer science. I hope to major in CSE, then work as an embedded systems engineer.<br>
+### I'm a 18-Year-Old Developer from Michigan. I'm Interested in Electrical Engineering and Computer Science. I Hope to Major in CSE, Then Work as an Embedded Systems Engineer.<br>
 
 ## 💻 Skills
 
-### My Languages
+### What I Know
 <table>
   <tr>
     <td align="center" width="96">
@@ -28,8 +28,6 @@
     </td>
   </tr>
 </table>
-
-### Other Skills
 <table>
   <tr>
     <td align="center" width="96">
@@ -61,7 +59,22 @@
   </tr>
 </table>
 
-## 📫 Connect With Me!
+
+### What I'm Learning
+<table>
+  <tr>
+    <td align="center" width="96">
+      <b>Svelte</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" />
+    </td>
+  </tr>
+</table>
+
+## 📫 Connect with Me!
 <table>
   <tr>
     <td align="center" width="96">
@@ -93,5 +106,5 @@
   </tr>
 </table>
 
-## 📊 Github Stats ⚡
+## 📊 GitHub Stats ⚡
 [![GitHub Streak](https://streak-stats.demolab.com?user=SeanErn&theme=city-lights&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
