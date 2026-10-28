@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sean
-### I'm a 18-Year-Old Developer from Michigan. I'm Interested in Electrical Engineering and Computer Science. I Hope to Major in CSE, Then Work as an Embedded Systems Engineer.<br>
+### I'm a 19-Year-Old Developer and student at the Georgia Institute of Technology pursuing a degree in Computer Engineering. I'm seeking a career in SoC, chip, or PCB design.<br>
 
 ## 💻 Skills
 
